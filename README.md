@@ -56,7 +56,7 @@ After cleaning we used matplot lib to visualize our findings and present them us
 
 ## Contributing Members
 
-**Team Leads (Contacts) : [Gilbert Botchway](https://github.com/[github handle])(@slackHandle)**
+**Team Leads (Contacts) : [Gilbert Botchway](https://github.com/[@Gilbert-B])(@slackHandle)**
 
 #### Other Members:
 
